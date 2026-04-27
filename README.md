@@ -6,7 +6,7 @@ The purpose of this repository is to document my learning journey and showcase p
 ---
 
 ## 📌 About the Program
-GCI World is a learning program focused on developing practical skills in Python, data science, and machine learning and practical knowledge in modern technologies such as Artificial Intelligence and online tools.
+GCI World is a learning program focused on developing practical skills in Python, data science, machine learning and practical knowledge in modern technologies such as Artificial Intelligence and online tools.
 
 ---
 
